@@ -122,6 +122,7 @@ h1 {
     background-color: #221919;
     caret-color: white;
     padding: 10px 0;
+    color: white;
 }
 
 #name {
@@ -132,6 +133,7 @@ h1 {
     background-color: #221919;
     caret-color: white;
     padding: 10px 0;
+    color: white;
 }
 
 ::placeholder {
